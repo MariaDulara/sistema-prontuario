@@ -5,6 +5,5 @@ include './classes/users/medico.class.php';
 class interEnfermeiro{
     public function __construct(){
 
-
     }
 }
